@@ -41,3 +41,19 @@ Tools Currently I use
 * Svn/Git
 
 * Retext
+
+# Framework and Middleware
+
+* Spring integration
+* Spring security
+* Spring ORM
+* JPA/Hibernate
+* Grizzly
+* Couchbase
+* Hornetq-cluster
+* Ehcache
+* Ldap
+
+# other tools
+
+* Tcpdump and wireshark
