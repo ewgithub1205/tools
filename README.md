@@ -57,3 +57,24 @@ Tools Currently I use
 # other tools
 
 * Tcpdump and wireshark
+* Confluece
+* Jira
+* Bamboo
+* Splunk
+* Newrelic
+* Thunderbird
+* GIMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
