@@ -16,7 +16,7 @@ Tools Currently I use
 
 * Mysql
 
-# Dtabase tool
+# Database tool
 
 * Mysql workbench
 
