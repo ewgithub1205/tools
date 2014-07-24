@@ -42,6 +42,8 @@ Tools Currently I use
 
 * Retext
 
+* Jmap/HeapAnalyzer 
+
 # Framework and Middleware
 
 * Spring integration
